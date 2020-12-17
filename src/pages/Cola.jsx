@@ -3,7 +3,7 @@ import React from 'react'
 export const Cola = () => {
     return (
         <div>
-            cola
+            cola page
         </div>
     )
 }
