@@ -21,3 +21,9 @@ También verá errores de pelusa en la consola.
 ## Aprende más
 
 Esta aplicacion esta echa con un backend qe se requiere, usando sockets y websockets
+
+# Backend de la aplicacion 
+
+hacer un `git clone https://github.com/efraindrummer/Backend-ticketApp-sockets-restAPI.git`
+lanzar un `npm install`
+correr con `npm run dev`
